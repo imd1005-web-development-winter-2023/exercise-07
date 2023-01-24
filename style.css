@@ -1,26 +1,14 @@
 /* YOUR CODE GOES INTO THIS FILE */
-
-html {
+h1 {
   /* Set the font family just so it doesn't look so gross */
   font-family: Arial, Helvetica, sans-serif;
+  /* Make the text bold */
+
+  /* Align the text to center */
+
+  /* Make all of the text uppercase in CSS */
+
+  /* Set the font size to 3rem */
+
+  /* Set the letter space to 30px */
 }
-
-/* Set the background colour on the body element */
-body {
-  background-color: yellowgreen;
-}
-
-/* Target the header - set the background colour and text colour */
-header {
-  /* Add a background colour and a text colour here */
-}
-
-/* Target the main content area - set the background colour */
-
-/* Target the header (h1) */
-
-/* Target the paragraphs (p) */
-
-/* Target the list items (li) */
-
-/* Target the footer - set the background colour and text colour */

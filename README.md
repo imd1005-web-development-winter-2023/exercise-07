@@ -1,6 +1,6 @@
-# Exercise 06 - CSS
+# Exercise 07 - CSS
 
-Welcome to exercise 06 - let's build a really ugly page.
+Welcome to exercise 07 - let's modify some font styles.
 
 ## Steps
 
@@ -9,9 +9,13 @@ Welcome to exercise 06 - let's build a really ugly page.
 3. Copy the contents of the `index.html` file in this repository into your newly created HTML file
 4. Create a CSS file in your local working folder and call it `style.css`
 5. Copy the contents of the `style.css` file in this repository into the local CSS file you created
-6. Using the `background-color` property and the `color` property, modify the CSS file so that your page looks close to the solution example
-7. You don't need to get the colours perfectly, in fact, it's encouraged that you experiment with the present colours available
-8. If you get stuck, have a look inside the `\solution` folder for one way of putting this together
+6. Apply the following style adjustments to the h1 on the page:
+7. Make the text bold
+8. Align the text to center
+9. Make all of the text uppercase using just CSS
+10. Set the font size to `3rem`
+11. Set the letter space to `30px`
+12. If you get stuck, have a look inside the `\solution` folder for one way of putting this together
 
 ## Final Solution
 
